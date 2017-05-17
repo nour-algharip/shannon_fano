@@ -1,2 +1,2 @@
-# shannon_fano
-String compression using shannon fano algorithm
+# Shannon Fano
+Text compression using shannon fano algorithm
